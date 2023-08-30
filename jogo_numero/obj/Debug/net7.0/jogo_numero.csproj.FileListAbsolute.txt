@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\jogo_numero\jogo_numero\obj\Debug\net7.0\jogo_numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\jogo_numero\jogo_numero\obj\Debug\net7.0\jogo_numero.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\jogo_numero\jogo_numero\obj\Debug\net7.0\jogo_numero.AssemblyInfo.cs
+C:\Users\User\source\repos\jogo_numero\jogo_numero\obj\Debug\net7.0\jogo_numero.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\jogo_numero\jogo_numero\bin\Debug\net7.0\jogo_numero.exe
+C:\Users\User\source\repos\jogo_numero\jogo_numero\bin\Debug\net7.0\jogo_numero.deps.json
+C:\Users\User\source\repos\jogo_numero\jogo_numero\bin\Debug\net7.0\jogo_numero.runtimeconfig.json
+C:\Users\User\source\repos\jogo_numero\jogo_numero\bin\Debug\net7.0\jogo_numero.dll
+C:\Users\User\source\repos\jogo_numero\jogo_numero\bin\Debug\net7.0\jogo_numero.pdb
+C:\Users\User\source\repos\jogo_numero\jogo_numero\obj\Debug\net7.0\jogo_numero.dll
+C:\Users\User\source\repos\jogo_numero\jogo_numero\obj\Debug\net7.0\refint\jogo_numero.dll
+C:\Users\User\source\repos\jogo_numero\jogo_numero\obj\Debug\net7.0\jogo_numero.pdb
+C:\Users\User\source\repos\jogo_numero\jogo_numero\obj\Debug\net7.0\jogo_numero.genruntimeconfig.cache
+C:\Users\User\source\repos\jogo_numero\jogo_numero\obj\Debug\net7.0\ref\jogo_numero.dll
